@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=GrayscaleImages
+comment0.text=\n\ Write\ a\ description\ of\ class\ GrayscaleImages\ here.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=inImage
+comment1.target=edu.duke.ImageResource\ makeGray(edu.duke.ImageResource)
+comment2.params=
+comment2.target=void\ selectAndConvert()
+comment3.params=
+comment3.target=void\ testGray()
+comment4.params=
+comment4.target=void\ doSave()
+numComments=5
